@@ -9,3 +9,6 @@ gem 'rspec'
 
 # Debugging
 gem 'pry'
+gem 'pry-rescue'
+
+gem 'learn-co'
